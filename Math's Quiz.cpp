@@ -123,15 +123,15 @@ int main(){
         switch(lvl){
     	    case 'E':
     	    case 'e':
-    			Level(1,20);
+    		    Level(1,20);
     		    break;
-	        case 'M':
+	    case 'M':
     	    case 'm':
-    			Level(30,50);
+    		    Level(30,50);
     		    break;
             case 'H':
     	    case 'h':
-    			Level(60,80);
+    		    Level(60,80);
     		    break;
         }
     }
