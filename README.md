@@ -1,5 +1,5 @@
 # PF-Project:
-MAMU Game: Hangman, Word Puzzle, TicTacToe, and Math's Quiz.
+MAMU Games: Hangman, Word Puzzle, TicTacToe, and Math's Quiz.
 
 # Contributors:
 1) Mahad Ahmed Dharejo
@@ -16,7 +16,7 @@ MAMU Game: Hangman, Word Puzzle, TicTacToe, and Math's Quiz.
  Make sure to mark your places wisely or get ready to lose! Choose your weapons, get your exes and O's ready!
 
  iii) #MATH QUEST
- Are you ready to test your math abilities in just 8.0 seconds. Answer 8 question each in 8.0 seconds. No meth is going to solbe this math. 
+ Are you ready to test your math. Answer 8 question each in 8.0 seconds. No meth is going to solve this math. 
 
  iv) #VERBAL SIZZLE QUEST
  Find your finding skills by playing this sizzling game of words. Just make sure you know english and its vocabulary !
