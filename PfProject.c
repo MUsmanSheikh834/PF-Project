@@ -33,6 +33,7 @@ int main() {
 				break;
 			default:
 				printf("Invalid Choice. Choose From The Given Options.");
+				play='y';
 				continue;
 				break;
     	}
